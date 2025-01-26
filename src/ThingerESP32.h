@@ -79,3 +79,4 @@ protected:
 };
 
 #endif
+git clone https://github.com/thinger-io/Arduino-Library.git
